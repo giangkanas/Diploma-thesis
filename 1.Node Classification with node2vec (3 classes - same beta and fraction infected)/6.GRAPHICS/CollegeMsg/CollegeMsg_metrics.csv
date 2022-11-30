@@ -1,0 +1,6 @@
+GaussianNB 0.68 0.663 0.641 0.641
+"Decision Tree" 0.551 0.5 0.5 0.498
+"K-nearest neighbors" 0.579 0.581 0.46 0.454
+"Logistic Regression" 0.734 0.702 0.691 0.694
+Svm 0.799 0.786 0.734 0.744
+"Neural Network" 0.783 0.758 0.739 0.744
